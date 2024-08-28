@@ -1,0 +1,104 @@
+body {
+     background-color: black; 
+    color: gold;
+    font-family: "Baskervville SC", serif;
+    font-size: 30.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+      background-color: beige;
+      color: black;
+      font-family: "EB Garamond", serif;
+      font-size: 25px;
+}
+
+
+.passo {
+     display: none;
+}
+
+.passo.ativo {
+     display: block;
+}
+
+img {
+  width: 200px;
+
+}
+
+
+#imagem-passo1 {  
+    width: 850px;     
+}
+
+
+#imagem-cavalheirodourado {
+    width: 500px;
+}
+
+#imagem-caminhoPantano {
+    width: 500px;
+}
+
+#X1-comoDourado {
+    width: 500px;
+}
+
+#passar-rolando {
+    width: 500px;
+}
+
+#morreupro-cavalheiro {
+    width: 850px;
+}
+
+#IGREJA-ELLEH {
+   width: 850px;
+}
+
+#drentoda-igreja {
+    width: 850px;
+}
+
+#SEGUIR-FLORESTA {
+    width: 500px;
+}
+
+#RUINAS-PORTAO {
+    width: 850px;
+}
+
+#back-stab {
+    width: 500px;
+}
+
+#matartodo-mundo {
+    width: 500px;
+}
+   
+#Encontrocom-Melina {
+    width: 850px;
+}
+ 
+#ANEL-TORRENTE {
+    width: 850px;
+}
+
+#TOTEM-MISTERIOSO {
+    width: 850px;
+}
+
+#DRAGAO-AGHELL {
+    width: 850px;
+}
+
+#Morrer-Fogo {
+    width: 850px;
+}
+
+#TELA-MORTEFOGO {
+    width: 500px;
+}
